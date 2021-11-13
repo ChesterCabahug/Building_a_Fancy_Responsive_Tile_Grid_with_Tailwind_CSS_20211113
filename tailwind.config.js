@@ -1,4 +1,4 @@
-const defaultTheme = require("tailwindcss/defaultConfig")
+const defaultTheme = require("tailwindcss/defaultTheme");
 
 module.exports = {
   mode: "jit",
